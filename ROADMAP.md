@@ -18,7 +18,7 @@
 - Voltage sources
 
 ## Status
-In Progress
+Done in day 1.
 
 ---
 
@@ -35,6 +35,9 @@ In Progress
 ## Concepts Used
 - Ohm’s Law
 - Basic circuit analysis
+
+## Status
+in progress
 
 ---
 
